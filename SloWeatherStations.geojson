@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Los Osos",
+        "TYPE": "Bloomsky",
+        "WXUNDERGROUND ID/NAME": "KCABAYWO14/Manzanita",
+        "BLOOMSKY NAME": "slugis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83555996417999,
+          35.309824124980665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Los Osos",
+        "TYPE": "Davis",
+        "WXUNDERGROUND ID/NAME": "KCABAYWO17/Palisades",
+        "BLOOMSKY NAME": "n/a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8360320329666,
+          35.30979348197351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Cayucos",
+        "TYPE": "Bloomsky",
+        "WXUNDERGROUND ID/NAME": "KCACAYUC6/Chaney",
+        "BLOOMSKY NAME": "CALFIRESLO11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8761954307556,
+          35.42069755577004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Parkhill",
+        "TYPE": "Davis",
+        "WXUNDERGROUND ID/NAME": "",
+        "BLOOMSKY NAME": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.54621398448943,
+          35.40802339670795
+        ]
+      }
+    }
+  ]
+}
